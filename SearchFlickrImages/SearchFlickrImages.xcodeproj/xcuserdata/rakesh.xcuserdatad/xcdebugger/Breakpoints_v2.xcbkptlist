@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F62919F7-2D01-4E63-A364-FC5CB17EE0F7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E8881B0-92E7-48B1-A4CA-0EA004B39116"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchFlickrImages/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchData(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E8881B0-92E7-48B1-A4CA-0EA004B39116 - a2f084369abc3de6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data in SearchFlickrImages.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(with: Swift.Optional&lt;Foundation.URLRequest&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, SearchFlickrImages.NetworkError&gt;"
+                  moduleName = "SearchFlickrImages"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakesh/Documents/SearchFlickrImages/SearchFlickrImages/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "2E8881B0-92E7-48B1-A4CA-0EA004B39116 - a2f084369abc3de6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data in SearchFlickrImages.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(with: Swift.Optional&lt;Foundation.URLRequest&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, SearchFlickrImages.NetworkError&gt;"
+                  moduleName = "SearchFlickrImages"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakesh/Documents/SearchFlickrImages/SearchFlickrImages/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "2E8881B0-92E7-48B1-A4CA-0EA004B39116 - a2f084369abc3de6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data in SearchFlickrImages.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(with: Swift.Optional&lt;Foundation.URLRequest&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, SearchFlickrImages.NetworkError&gt;"
+                  moduleName = "SearchFlickrImages"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakesh/Documents/SearchFlickrImages/SearchFlickrImages/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+               <Location
+                  uuid = "2E8881B0-92E7-48B1-A4CA-0EA004B39116 - a2f084369abc3de6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data in SearchFlickrImages.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(with: Swift.Optional&lt;Foundation.URLRequest&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, SearchFlickrImages.NetworkError&gt;"
+                  moduleName = "SearchFlickrImages"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakesh/Documents/SearchFlickrImages/SearchFlickrImages/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D097015-AD73-4A93-A8F9-688753439F0C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SearchFlickrImages/Services/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchData(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D097015-AD73-4A93-A8F9-688753439F0C - 473e1cb695c66136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; SearchFlickrImages.NetworkError in SearchFlickrImages.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(with: Swift.Optional&lt;Foundation.URLRequest&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, SearchFlickrImages.NetworkError&gt;"
+                  moduleName = "SearchFlickrImages"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakesh/Documents/SearchFlickrImages/SearchFlickrImages/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+               <Location
+                  uuid = "3D097015-AD73-4A93-A8F9-688753439F0C - 473e1cb695c66136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; SearchFlickrImages.NetworkError in SearchFlickrImages.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(with: Swift.Optional&lt;Foundation.URLRequest&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, SearchFlickrImages.NetworkError&gt;"
+                  moduleName = "SearchFlickrImages"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakesh/Documents/SearchFlickrImages/SearchFlickrImages/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+               <Location
+                  uuid = "3D097015-AD73-4A93-A8F9-688753439F0C - 473e1cb695c66136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; SearchFlickrImages.NetworkError in SearchFlickrImages.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(with: Swift.Optional&lt;Foundation.URLRequest&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, SearchFlickrImages.NetworkError&gt;"
+                  moduleName = "SearchFlickrImages"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakesh/Documents/SearchFlickrImages/SearchFlickrImages/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+               <Location
+                  uuid = "3D097015-AD73-4A93-A8F9-688753439F0C - 473e1cb695c66136"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; SearchFlickrImages.NetworkError in SearchFlickrImages.NetworkService.fetchData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(with: Swift.Optional&lt;Foundation.URLRequest&gt;) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, SearchFlickrImages.NetworkError&gt;"
+                  moduleName = "SearchFlickrImages"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakesh/Documents/SearchFlickrImages/SearchFlickrImages/Services/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
